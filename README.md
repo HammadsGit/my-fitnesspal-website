@@ -1,4 +1,4 @@
-# 3D Rocket Simulation and Visualization Project
+# My fitnesspal website
 
 ## Overview
 This project, developed by Hammad Shahid, is a comprehensive web application designed to assist users in improving their health and fitness. Hosted at [zeos5eek.herokuapp.com](https://zeos5eek.herokuapp.com), it offers a robust platform for monitoring and managing nutrition and exercise, featuring a detailed database of foods and workouts.
@@ -17,7 +17,7 @@ This project, developed by Hammad Shahid, is a comprehensive web application des
 - **Security Enhancements:** Addresses potential security and privacy issues through careful design and Flask-Login integration.
 
 ## Getting Started
-To explore the 3D Rocket Simulation and Visualization Project, visit the website at [zeos5eek.herokuapp.com](https://zeos5eek.herokuapp.com). Here, you can register an account, start tracking your nutrition and exercise, and take advantage of the various features designed to support your fitness journey.
+To explore the My fitnesspal website, visit the website at [zeos5eek.herokuapp.com](https://zeos5eek.herokuapp.com). Here, you can register an account, start tracking your nutrition and exercise, and take advantage of the various features designed to support your fitness journey.
 
 ## Acknowledgments
 Special thanks to all the open-source projects and libraries that have made this project possible, and to Heroku for hosting the application.
