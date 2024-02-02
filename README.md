@@ -1,7 +1,8 @@
-# My fitnesspal website
-
-## Overview
+## My fitnesspal website
 This project, developed by Hammad Shahid, is a comprehensive web application designed to assist users in improving their health and fitness. Hosted at [zeos5eek.herokuapp.com](https://zeos5eek.herokuapp.com), it offers a robust platform for monitoring and managing nutrition and exercise, featuring a detailed database of foods and workouts.
+
+![Main Screen](fitness_img1)
+![Main Screen](fitness_img2)
 
 ## Key Features
 - **Nutrition and Exercise Tracking:** Enables users to log their food intake and exercise, aiding in health and fitness management.
